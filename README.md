@@ -1,6 +1,6 @@
 # Who Are We?
 - 👋 Hi We are @SaRyoMad, a group of 3 passionate developers and artists
-- 📝**In general we make minecraft realted content like mods, plugins, etc.**
+- 📝**In general we make Minecraft related content like mods, plugins, etc.**
 - 🤓Since we are new programmers and developer our projects may look a bit clumsy and unorganized.
 ## Project Members
 - Developers: [@Xminer804](https://gist.github.com/Xminer804) | [@Aryobw9](https://gist.github.com/Aryobw9)
