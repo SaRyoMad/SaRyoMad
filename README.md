@@ -4,7 +4,7 @@
 - 🤓Since we are new programmers and developer our projects may look a bit clumsy and unorganized.
 ## Project Members
 ⌨️Developers: [@Xminer804](https://gist.github.com/Xminer804) | [@Aryobw9](https://gist.github.com/Aryobw9) <br />
-🖌️Artist: Mamad
+🖌️Artist: ShigCarrot 
  
 <!---
 SaRyoMad/SaRyoMad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
